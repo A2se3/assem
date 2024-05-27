@@ -1,0 +1,27 @@
+h1 {
+    color: #000;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: #5ab2ff;
+    color: white;
+    border: solid black 1px;
+}
+
+
+button:hover {
+    background-color: #a0deff;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+
+}
